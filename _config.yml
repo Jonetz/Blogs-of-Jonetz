@@ -1,0 +1,4 @@
+theme: minima
+title: MOFormer - Deep Learning in the Sciences 2023
+author: Jonas Geiselhart
+description: This site includes a blogpost on the paper ''MOFormer: Self-Supervised Transformer Model for Metal-Organic Framework Property Prediction'' and was written for the Deep Learning in the Sciences Seminar 2023 at the University of Stuttgart
